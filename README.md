@@ -4,5 +4,6 @@
 </header>
 <hr>
 <main>
-
+  <h2>Actualment estic aprenent els següents llenguatges:</h2>
+  
 </main>
