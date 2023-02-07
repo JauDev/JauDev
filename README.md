@@ -18,6 +18,7 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="css3-original.svg" width="50px" height="50px">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="javascript-original.svg" width="50px" height="50px">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="java-original.svg" width="50px" height="50px">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash-original.svg" width="50px" height="50px">
             </div>
         </section>
         <section>
