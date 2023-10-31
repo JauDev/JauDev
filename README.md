@@ -8,7 +8,7 @@
             <h2>📜 About Me:</h2>
             <ul>
                 <li>📫 How to reach me jaumegandara@gmail.com</li>
-                <li>🌱 I’m currently learning Java and MySQL</li>
+                <li>🌱 I’m currently learning Java, PHP and Node</li>
             </ul>
         </section>
         <section>
